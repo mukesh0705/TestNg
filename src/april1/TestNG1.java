@@ -17,6 +17,7 @@ public class TestNG1 {
 	{
 		driver =new ChromeDriver();
 		driver.manage().window().maximize();
+		
 		driver.get("http://calc.qedgetech.com/");
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		Reporter.log("Running pre-condition",true);

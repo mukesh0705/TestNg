@@ -1,17 +1,223 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
   <reporter-output>
+    <line>
+      <![CDATA[Running pre-condition]]>
+    </line>
+    <line>
+      <![CDATA[Executing addition test]]>
+    </line>
+    <line>
+      <![CDATA[Running post-condition]]>
+    </line>
+    <line>
+      <![CDATA[Running pre-condition]]>
+    </line>
+    <line>
+      <![CDATA[Executing addition test]]>
+    </line>
+    <line>
+      <![CDATA[Running post-condition]]>
+    </line>
+    <line>
+      <![CDATA[Running pre-condition]]>
+    </line>
+    <line>
+      <![CDATA[Executing addition test]]>
+    </line>
+    <line>
+      <![CDATA[Running post-condition]]>
+    </line>
+    <line>
+      <![CDATA[Running pre-condition]]>
+    </line>
+    <line>
+      <![CDATA[Executing addition test]]>
+    </line>
+    <line>
+      <![CDATA[Running post-condition]]>
+    </line>
+    <line>
+      <![CDATA[Running pre-condition]]>
+    </line>
+    <line>
+      <![CDATA[Executing addition test]]>
+    </line>
+    <line>
+      <![CDATA[Running post-condition]]>
+    </line>
+    <line>
+      <![CDATA[Running pre-condition]]>
+    </line>
+    <line>
+      <![CDATA[Executing multiplication test]]>
+    </line>
+    <line>
+      <![CDATA[Running post-condition]]>
+    </line>
+    <line>
+      <![CDATA[Running pre-condition]]>
+    </line>
+    <line>
+      <![CDATA[Executing division test]]>
+    </line>
+    <line>
+      <![CDATA[Running post-condition]]>
+    </line>
   </reporter-output>
-  <suite started-at="2023-05-18T22:58:28 IST" name="Default suite" finished-at="2023-05-18T22:58:52 IST" duration-ms="23317">
+  <suite started-at="2023-05-20T15:44:02 IST" name="Suit" finished-at="2023-05-20T15:46:44 IST" duration-ms="162200">
     <groups>
     </groups>
-    <test started-at="2023-05-18T22:58:28 IST" name="Default test" finished-at="2023-05-18T22:58:52 IST" duration-ms="23317">
-      <class name="april3.FileProperty">
-        <test-method signature="login()[pri:0, instance:april3.FileProperty@4135c3b]" started-at="2023-05-18T22:58:28 IST" name="login" finished-at="2023-05-18T22:58:52 IST" duration-ms="23216" status="PASS">
+    <test started-at="2023-05-20T15:44:02 IST" name="test01" finished-at="2023-05-20T15:46:44 IST" duration-ms="162200">
+      <class name="april1.TestNG4">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:april1.TestNG4@47eaca72]" started-at="2023-05-20T15:44:02 IST" name="setUp" finished-at="2023-05-20T15:44:53 IST" duration-ms="50708" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[Running pre-condition]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- login -->
-      </class> <!-- april3.FileProperty -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- setUp -->
+        <test-method signature="addition()[pri:0, instance:april1.TestNG4@47eaca72]" started-at="2023-05-20T15:44:53 IST" name="addition" finished-at="2023-05-20T15:45:05 IST" duration-ms="11817" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing addition test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addition -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:april1.TestNG4@47eaca72]" started-at="2023-05-20T15:45:05 IST" name="tearDown" finished-at="2023-05-20T15:45:06 IST" duration-ms="567" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running post-condition]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:april1.TestNG4@47eaca72]" started-at="2023-05-20T15:45:06 IST" name="setUp" finished-at="2023-05-20T15:45:25 IST" duration-ms="19844" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running pre-condition]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addition()[pri:0, instance:april1.TestNG4@47eaca72]" started-at="2023-05-20T15:45:25 IST" name="addition" finished-at="2023-05-20T15:45:37 IST" duration-ms="11785" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing addition test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addition -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:april1.TestNG4@47eaca72]" started-at="2023-05-20T15:45:37 IST" name="tearDown" finished-at="2023-05-20T15:45:38 IST" duration-ms="648" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running post-condition]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:april1.TestNG4@47eaca72]" started-at="2023-05-20T15:45:38 IST" name="setUp" finished-at="2023-05-20T15:45:50 IST" duration-ms="12511" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running pre-condition]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addition()[pri:0, instance:april1.TestNG4@47eaca72]" started-at="2023-05-20T15:45:50 IST" name="addition" finished-at="2023-05-20T15:45:59 IST" duration-ms="8574" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing addition test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addition -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:april1.TestNG4@47eaca72]" started-at="2023-05-20T15:45:59 IST" name="tearDown" finished-at="2023-05-20T15:46:00 IST" duration-ms="966" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running post-condition]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:april1.TestNG4@47eaca72]" started-at="2023-05-20T15:46:00 IST" name="setUp" finished-at="2023-05-20T15:46:06 IST" duration-ms="5804" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running pre-condition]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addition()[pri:0, instance:april1.TestNG4@47eaca72]" started-at="2023-05-20T15:46:06 IST" name="addition" finished-at="2023-05-20T15:46:14 IST" duration-ms="8569" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing addition test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addition -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:april1.TestNG4@47eaca72]" started-at="2023-05-20T15:46:14 IST" name="tearDown" finished-at="2023-05-20T15:46:15 IST" duration-ms="526" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running post-condition]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:april1.TestNG4@47eaca72]" started-at="2023-05-20T15:46:15 IST" name="setUp" finished-at="2023-05-20T15:46:20 IST" duration-ms="5270" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running pre-condition]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addition()[pri:0, instance:april1.TestNG4@47eaca72]" started-at="2023-05-20T15:46:20 IST" name="addition" finished-at="2023-05-20T15:46:29 IST" duration-ms="8594" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing addition test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addition -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:april1.TestNG4@47eaca72]" started-at="2023-05-20T15:46:29 IST" name="tearDown" finished-at="2023-05-20T15:46:29 IST" duration-ms="348" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running post-condition]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:april1.TestNG4@47eaca72]" started-at="2023-05-20T15:46:29 IST" name="setUp" finished-at="2023-05-20T15:46:37 IST" duration-ms="7853" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running pre-condition]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="multiplication()[pri:0, instance:april1.TestNG4@47eaca72]" started-at="2023-05-20T15:46:37 IST" name="multiplication" finished-at="2023-05-20T15:46:37 IST" duration-ms="481" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing multiplication test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- multiplication -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:april1.TestNG4@47eaca72]" started-at="2023-05-20T15:46:37 IST" name="tearDown" finished-at="2023-05-20T15:46:38 IST" duration-ms="478" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running post-condition]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:april1.TestNG4@47eaca72]" started-at="2023-05-20T15:46:38 IST" name="setUp" finished-at="2023-05-20T15:46:44 IST" duration-ms="5674" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running pre-condition]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="division()[pri:1, instance:april1.TestNG4@47eaca72]" started-at="2023-05-20T15:46:44 IST" name="division" finished-at="2023-05-20T15:46:44 IST" duration-ms="522" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing division test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- division -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:april1.TestNG4@47eaca72]" started-at="2023-05-20T15:46:44 IST" name="tearDown" finished-at="2023-05-20T15:46:44 IST" duration-ms="342" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running post-condition]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- april1.TestNG4 -->
+    </test> <!-- test01 -->
+  </suite> <!-- Suit -->
 </testng-results>
